@@ -1,0 +1,5 @@
+org\selflearn\GestionComptesApplication.class
+org\selflearn\dao\CompteImpl.class
+org\selflearn\model\Compte.class
+org\selflearn\model\Operation.class
+org\selflearn\dao\EntityRepository.class
